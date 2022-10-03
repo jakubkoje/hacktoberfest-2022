@@ -248,12 +248,11 @@
 - Bio: "24/7 Student"
 - GitHub: [Ansi007](https://github.com/Ansi007)
 
-<<<<<<< HEAD
+
 #### Name: [Kush Munot](https://github.com/Kush-munot)
 - Place: Nagpur, India
 - Bio: "24/7 Student"
 - GitHub: [Kush Munot](https://github.com/Kush-munot)
-=======
 
 #### Name: [Abhishek Gaurav](https://github.com/gauravabhishek4U)
 - Place: Bengaluru, India
@@ -271,7 +270,51 @@
 - Bio: I love coding!
 - GitHub: [hoplite2000](https://github.com/hoplite2000)
 
->>>>>>> 84a3c481b1beaa98e6c8e796db4611e2d9ec5e7a
+
+#### Name: [Dhruv Bhagatkar](https://github.com/yunocrown)
+
+- Place: Mumbai,Maharashtra
+- Bio: 2nd Year EXTC student in KJSCE
+- GitHub: [dhruv2003](https://github.com/dhruv2003)
+
+
+
+#### Name: [Siddhesh Khandagale](https://github.com/Siddheshk02)
+
+- Place: Maharashtra, India
+- Bio: Student
+- GitHub: [Siddhesh Khandagale](https://github.com/Siddheshk02)
+
+
+#### Name: [Abbey Santos](https://github.com/AbbeyIT)
+- Place: Manila, Philippines
+- Bio: Open Source Enthusiast
+- GitHub: [AbbeyIT](https://github.com/AbbeyIT)
+
+
+#### Name: [Preetraj Haldar](https://github.com/the-threshold-frequency)
+- Place: Kolkata, West Bengal, India
+- Bio: Third year CSE Undergrad, Blockchain Developer-in-the-making
+- GitHub: [the-threshold-frequency](https://github.com/the-threshold-frequency)
+
+
+#### Name: [Maglionaire](https://github.com/maglionaire)
+- Place: Bangkok, Thailand
+- Bio: Interesting in code
+- GitHub: [Maglionaire](https://github.com/maglionaire)
+
+
+#### Name: [Sachin Aghera](https://github.com/AgheraSachin)
+- Place: Karnataka, India
+- Bio: Open Source Enthusiast
+- GitHub: [Sachin Aghera](https://github.com/AgheraSachin)
+
+
+#### Name: [Khushi Marothi](https://github.com/khushimarothi)
+- Place: Bhopal, India
+- Bio: Developer | Coder
+- GitHub: [khushimarothi](https://github.com/khushimarothi)
+
 
 #### Name: [Jakub Jelínek](https://github.com/jakubkoje)
 
